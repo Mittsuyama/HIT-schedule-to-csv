@@ -18,3 +18,7 @@ pip install xlrd
 python3 main.py
 ```
 
+## 导入课表
+
+将 csv 文件导入谷歌日历或者 outlook 日历中。
+注意：科学上网使用的谷歌日历可能需要修改地区和时间。
